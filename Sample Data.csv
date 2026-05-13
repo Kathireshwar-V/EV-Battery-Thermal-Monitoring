@@ -1,0 +1,10 @@
+﻿Temperature (°C),Rate of Rise (dT/dt),TSI Value,Status
+67.6875,0.0,0.0,Data sent to ThingSpeak
+30.6875,"'-3.7","'-1.892396",Data sent to ThingSpeak
+98.3125,6.7625,11.08064,Upload failed
+32.0,"'-6.63125","'-3.536667",Data sent to ThingSpeak
+72.8125,4.08125,4.952767,Data sent to ThingSpeak
+43.5,"'-2.93125","'-2.125156",Data sent to ThingSpeak
+"'-1.125","'-4.4625",0.08367188,Data sent to ThingSpeak
+"'-1.125",0.0,"'-0.0",Data sent to ThingSpeak
+68.875,7.0,8.035417,Data sent to ThingSpeak
