@@ -114,7 +114,7 @@ Add your demo video link here (Google Drive / YouTube):
 
 ## Team Members
 
-- Kathireshwar V  
+- Kathireshwar V (Myself)
 - Shakeer Ahmed K  
 - M Gunal  
 - Giridharan M G
